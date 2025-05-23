@@ -6,7 +6,6 @@
 
 const MillerDowney = {
   email: "miller.05dow@gmail.com",
-  loveToCode: true,
   code: [Javascript, Typescript, Java, CSS, HTML]
   tools: [React, Node, Mongodb, Postgres, Quartus],
 }
