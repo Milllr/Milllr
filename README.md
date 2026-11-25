@@ -1,6 +1,6 @@
 ### hey, im miller. i build software, host hackathons, and run a Red Bull sponsored ski rail jam out of my backyard.
 
-[![Miller Downey Portfolio](https://github.com/user-attachments/assets/87faa493-afdc-4b76-a8ca-fbd53870ad42)](https://mllr.ca)
+[![Miller Downey Portfolio](mllr.gif)](https://mllr.ca)
 [*mllr.ca*](https://mllr.ca) ^my portfolio^
 
 currently working on:
